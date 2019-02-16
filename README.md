@@ -44,6 +44,19 @@ To run the benchmarks, call
 
 There is also some Python3 code under ```python/``` for producing bar and line plots.
 
+To produce plots for this example, do
+```
+cd python/
+python3 fibonacci.py
+```
+which will result in a bunch of PDF files with prefix ```tmpfib```.
+
+## Requirements
+  * Leiningen
+  * Python3
+  * Matplotlib
+  * Pyrsistent
+
 ## License
 
 Copyright © 2019 Jonas Östlund

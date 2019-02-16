@@ -2,6 +2,12 @@
 
 A tool to perform benchmarks.
 
+## Leiningen dependency
+
+```
+[benjmark "0.1.0"]
+```
+
 ## Usage
 
 The benchmark is defined using a map, e.g.
